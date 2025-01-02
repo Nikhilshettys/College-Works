@@ -1,7 +1,7 @@
 
 # VTU LAB Resources - [CSE]
 
-You get all subject Lab programs as per 2022 scheme here ! //Hassassin//
+You get all Subject Lab Programs as per 2022 scheme here ! //Hassassin//
 
 
 ## License
