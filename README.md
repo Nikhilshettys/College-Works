@@ -45,7 +45,3 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 
 ## Feedback
 If you have any feedback, please reach out to me at hassassinsp10@gmail.com
-
----
-
-Would you like me to update the README file with these suggestions?
