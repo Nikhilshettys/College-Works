@@ -1,7 +1,3 @@
-To enhance your README file, you can incorporate the following sections and details:
-
----
-
 # VTU LAB Resources - [CSE]
 
 You get all Subject Lab Programs as per the 2022 scheme here! //Hassassin//
