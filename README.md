@@ -1,6 +1,3 @@
-This is a great draft for your README.md file. However, there are some formatting issues and missing code block terminators. Here is a corrected version:
-
-```markdown
 # VTU Lab Resources - Computer Science & Engineering (CSE)
 
 A comprehensive collection of lab programs developed in alignment with the 2022 Visvesvaraya Technological University (VTU) Computer Science and Engineering curriculum.
