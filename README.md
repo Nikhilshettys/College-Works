@@ -13,7 +13,6 @@ A comprehensive collection of lab programs developed in alignment with the 2022 
 - [Contributing](#contributing)
 - [License](#license)
 - [Feedback](#feedback)
-- [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
@@ -89,7 +88,3 @@ This project is licensed under the MIT License.
 ## Feedback
 
 If you have any feedback, please reach out to me at [hassassinsp10@gmail.com](mailto:hassassinsp10@gmail.com).
-
-## Acknowledgements
-
-Special thanks to all contributors and the academic community for their support and collaboration.
