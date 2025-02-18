@@ -11,7 +11,7 @@ A comprehensive collection of lab programs developed in alignment with the 2022 
   - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+- [MIT License](LICENSE)
 - [Feedback](#feedback)
 
 ## Introduction
