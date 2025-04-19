@@ -16,14 +16,11 @@ void sumofsub(int p,int k,int r)
         printf("\n");
     }
     else if(p+s[k]+s[k+1]<=d)
-        sumofsub(p+s[k],k+1,r
-                 -s[k]);
-    if((p+r
-            -s[k]>=d) && (p+s[k+1]<=d))
+        sumofsub(p+s[k],k+1,r-s[k]);
+    if((p+r-s[k]>=d) && (p+s[k+1]<=d))
     {
         x[k]=0;
-        sumofsub(p,k+1,r
-                 -s[k]);
+        sumofsub(p,k+1,r-s[k]);
     }
 }
 int main()
