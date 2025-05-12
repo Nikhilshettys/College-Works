@@ -1,26 +1,15 @@
 [0] Config.pm:308> INFO - This is Biber 2.20
 [0] Config.pm:311> INFO - Logfile is 'P9.blg'
-[468] biber-MSWIN64:340> INFO - === 
-[578] Biber.pm:420> INFO - Reading 'P9.bcf'
-[1167] Biber.pm:994> INFO - Found 10 citekeys in bib section 0
-[1202] Biber.pm:4463> INFO - Processing section 0
-[1242] Biber.pm:4654> INFO - Looking for bibtex file 'references.bib' for section 0
-[1973] bibtex.pm:1713> INFO - LaTeX decoding ...
-[2006] bibtex.pm:1519> INFO - Found BibTeX data source 'C:/Users/hassa/AppData/Local/Programs/MiKTeX/bibtex/bib/feupphdteses/references.bib'
-[2076] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[2076] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[2076] Biber.pm:4283> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'en-US'
-[2077] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
-[2078] bbl.pm:676> INFO - Writing 'P9.bbl' with encoding 'UTF-8'
-[2079] bbl.pm:779> INFO - Output to P9.bbl
-[2081] Biber.pm:131> WARN - I didn't find a database entry for 'author1' (section 0)
-[2081] Biber.pm:131> WARN - I didn't find a database entry for 'author2' (section 0)
-[2081] Biber.pm:131> WARN - I didn't find a database entry for 'author3' (section 0)
-[2081] Biber.pm:131> WARN - I didn't find a database entry for 'author4' (section 0)
-[2081] Biber.pm:131> WARN - I didn't find a database entry for 'author5' (section 0)
-[2082] Biber.pm:131> WARN - I didn't find a database entry for 'author6' (section 0)
-[2082] Biber.pm:131> WARN - I didn't find a database entry for 'author7' (section 0)
-[2082] Biber.pm:131> WARN - I didn't find a database entry for 'author8' (section 0)
-[2082] Biber.pm:131> WARN - I didn't find a database entry for 'author9' (section 0)
-[2082] Biber.pm:131> WARN - I didn't find a database entry for 'author10' (section 0)
-[2082] Biber.pm:133> INFO - WARNINGS: 10
+[230] biber-MSWIN64:340> INFO - === 
+[327] Biber.pm:420> INFO - Reading 'P9.bcf'
+[513] Biber.pm:994> INFO - Found 10 citekeys in bib section 0
+[538] Biber.pm:4463> INFO - Processing section 0
+[565] Biber.pm:4654> INFO - Looking for bibtex file 'references.bib' for section 0
+[697] bibtex.pm:1713> INFO - LaTeX decoding ...
+[717] bibtex.pm:1519> INFO - Found BibTeX data source 'references.bib'
+[849] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[849] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[850] Biber.pm:4283> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[850] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[864] bbl.pm:676> INFO - Writing 'P9.bbl' with encoding 'UTF-8'
+[873] bbl.pm:779> INFO - Output to P9.bbl

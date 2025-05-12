@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.2) (preloaded format=pdflatex 2025.3.3)  11 MAY 2025 19:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.2) (preloaded format=pdflatex 2025.3.3)  12 MAY 2025 14:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -358,72 +358,31 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 15.
 
 
-LaTeX Warning: Citation 'author1' on page 1 undefined on input line 21.
-
-
-LaTeX Warning: Citation 'author2' on page 1 undefined on input line 21.
-
-
-LaTeX Warning: Citation 'author3' on page 1 undefined on input line 21.
-
-
-LaTeX Warning: Citation 'author4' on page 1 undefined on input line 21.
-
-
-LaTeX Warning: Citation 'author5' on page 1 undefined on input line 21.
-
-
-LaTeX Warning: Citation 'author6' on page 1 undefined on input line 21.
-
-
-LaTeX Warning: Citation 'author7' on page 1 undefined on input line 21.
-
-
-LaTeX Warning: Citation 'author8' on page 1 undefined on input line 21.
-
-
-LaTeX Warning: Citation 'author9' on page 1 undefined on input line 21.
-
-
-LaTeX Warning: Citation 'author10' on page 1 undefined on input line 21.
-
-
-LaTeX Warning: Empty bibliography on input line 23.
-
-
-
 [1
 
-{C:/Users/hassa/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (P9.aux)
+{C:/Users/hassa/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+
+[2] (P9.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                P9
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to 'P9.run.xml'.
 \openout1 = `P9.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 10186 strings out of 473523
- 202367 string characters out of 5714631
- 1115661 words of memory out of 5000000
- 33364 multiletter control sequences out of 15000+600000
- 561260 words of font info for 44 fonts, out of 8000000 for 9000
+ 10245 strings out of 473523
+ 204256 string characters out of 5714631
+ 1117001 words of memory out of 5000000
+ 33422 multiletter control sequences out of 15000+600000
+ 561300 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 79i,6n,93p,781b,1740s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/hassa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/hassa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/hassa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on P9.pdf (1 page, 44061 bytes).
+ 79i,6n,93p,781b,1734s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/hassa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/hassa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/hassa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/hassa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on P9.pdf (2 pages, 63828 bytes).
 PDF statistics:
- 21 PDF objects out of 1000 (max. 8388607)
+ 29 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
