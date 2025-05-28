@@ -15,8 +15,8 @@ CREATE TABLE Customers (
 
 DESC Customers;
 
-INSERT INTO Customers VALUES (10, 'abhi', 25, 10000, 'Bangalore');
-INSERT INTO Customers VALUES (20, 'rohith', 30, 9000, 'Delhi');
+INSERT INTO Customers VALUES (10, 'alok', 25, 10000, 'Bangalore');
+INSERT INTO Customers VALUES (20, 'raju', 30, 9000, 'Delhi');
 INSERT INTO Customers VALUES (30, 'david', 28, 9000, 'Pune');
 INSERT INTO Customers VALUES (40, 'rahul', 29, 7000, 'Mumbai');
 INSERT INTO Customers VALUES (50, 'pramod', 31, 8000, 'Mysore');
