@@ -31,8 +31,8 @@ CREATE TABLE employee (
 DESC employee;
 
 -- Step 6: Insert records
-INSERT INTO employee VALUES (101, 'abhi', 'manager', 1234, 10000, 70);
-INSERT INTO employee VALUES (102, 'rohith', 'analyst', 2345, 9000, 65);
+INSERT INTO employee VALUES (101, 'alok', 'manager', 1234, 10000, 70);
+INSERT INTO employee VALUES (102, 'raju', 'analyst', 2345, 9000, 65);
 INSERT INTO employee VALUES (103, 'david', 'analyst', 3456, 9000, 65);
 INSERT INTO employee VALUES (104, 'rahul', 'clerk', 4567, 7000, 55);
 INSERT INTO employee VALUES (105, 'pramod', 'salesman', 5678, 5000, 50);
