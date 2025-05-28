@@ -20,8 +20,8 @@ alter table employee add(commission number);
 
 desc employee;
 
-insert into Employee values(101,'abhi','manager',1234,10000,'70'); 
-insert into employee values(102,'rohith','analyst',2345,9000,'65'); 
+insert into Employee values(101,'alok','manager',1234,10000,'70'); 
+insert into employee values(102,'raju','analyst',2345,9000,'65'); 
 insert into employee values(103,'david','analyst',3456,9000,'65'); 
 insert into employee values(104,'rahul','clerk',4567,7000,'55'); 
 insert into employee values(105,'pramod','salesman',5678,5000,'50');
