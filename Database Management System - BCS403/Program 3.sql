@@ -16,8 +16,8 @@ Salary int);
 
 desc Employee;
 
-insert into Employee values(401,'abhi',25 ,10000); 
-insert into employee values(402,'rohith',30,9000); 
+insert into Employee values(401,'alok',25 ,10000); 
+insert into employee values(402,'raju',30,9000); 
 insert into employee values(403,'david',28,9000); 
 insert into employee values(404,'rahul',29,7000); 
 insert into employee values(405,'pramod',31,8000);
