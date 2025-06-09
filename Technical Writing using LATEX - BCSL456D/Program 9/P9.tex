@@ -1,14 +1,13 @@
-% 9. Develop a LaTeX script to create a document that consists of two paragraphs with a 
-% minimum of 10 citations in it and display the reference in the section.
+ 
 
 \documentclass[a4paper,12pt]{article} 
 \usepackage[utf8]{inputenc} 
 \usepackage[english]{babel} 
 \usepackage{lipsum}
-\usepackage[style=numeric, sorting=nyt]{biblatex}  % Load biblatex package for citations 
-\addbibresource{references.bib}  % Your bibliography file (use .bib file) 
+\usepackage[style=numeric, sorting=nyt]{biblatex}   
+\addbibresource{references.bib}   
 \title{Document with Citations and References} 
-\author{Hemanth S.P}  % Replace with your name 
+\author{Hemanth S.P}   
 \date{\today} 
 
 \begin{document} 
@@ -20,5 +19,5 @@ undeniable.
 \lipsum[1-2]
 \cite{author1,author2,author3,author4,author5,author6,author7,author8,author9,author10}
 
-\printbibliography% Print the bibliography section with the cited references 
+\printbibliography 
 \end{document}
